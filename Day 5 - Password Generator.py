@@ -25,11 +25,13 @@ for number in range(1,101):
         print(number)
 
 #bUILDING A PASSWORD GENERATOR\
-
+import random
 import string
+from random import random
 
 lowercase_letters = list(string.ascii_lowercase)
 uppercase_letters = list(string.ascii_uppercase)
+
 letters = lowercase_letters + uppercase_letters
 numbers = list(range(0,10))
 symbols = ['!','#','$','%','&','(',')','*','+']
@@ -39,8 +41,10 @@ nr_letters = int(input("How many letters would you like in your password?\n "))
 nr_symbols = int(input(f"How many symbols would you like?\n "))
 nr_numbers = int(input(f"How many numbers would you like?\n "))
 
+password = ''.join(random.choices(letters, k=nr_letters))
+print("Your random password is:", password)
 
 
-print(letters)
-print(numbers)
+
+
 
