@@ -43,3 +43,4 @@ nr_numbers = int(input(f"How many numbers would you like?\n "))
 
 print(letters)
 print(numbers)
+
