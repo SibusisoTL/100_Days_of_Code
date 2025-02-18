@@ -17,8 +17,6 @@ while not at_goal():
     turn_left()
     turn_left()
 
-
-
 while not at_goal():
     if right_is_clear():
         turn_right()
@@ -27,3 +25,4 @@ while not at_goal():
         move()
     else:
         turn_left()
+
