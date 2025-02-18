@@ -1,22 +1,27 @@
-from random import random
-import string
-lowercase_letters = list(string.ascii_lowercase)
-uppercase_letters = list(string.ascii_uppercase)
+def turn_rdef turn_right():
 
-letters = lowercase_letters + uppercase_letters
-numbers = list(range(0,10))
-symbols = ['!','#','$','%','&','(',')','*','+']
 
-print("Welcome to the PyPassword Generator!")
-nr_letters = int(input("How many letters would you like in your password?\n "))
-nr_symbols = int(input(f"How many symbols would you like?\n "))
-nr_numbers = int(input(f"How many numbers would you like?\n "))
+turn_left()
+turn_left()
+turn_left()
 
-password = ""
-for  char in range(0,nr_letters):
-    password += random.choice(letters)
-for char in range(0, nr_symbols):
-    password += random.choice(symbols)
-for char in range(0, nr_numbers):
-    password += random.choice(numbers)
-print(password)
+while not at_goal():
+    if right_is_clear():
+        turn_right()
+        move()
+    elif front_is_clear():
+        move()
+    else:
+        turn_left()ight():
+    turn_left()
+    turn_left()
+    turn_left()
+
+while not at_goal():
+    if right_is_clear():
+        turn_right()
+        move()
+    elif front_is_clear():
+        move()
+    else:
+        turn_left()
