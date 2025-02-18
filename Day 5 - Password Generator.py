@@ -1,5 +1,9 @@
 #For Loop
 
+import random
+import string
+from random import random
+
 Student_Scores = [10, 142, 120,171, 184, 149, 24, 9, 8, 199, 78,89,86]
 max_score = 0
 for score in Student_Scores:
@@ -25,9 +29,7 @@ for number in range(1,101):
         print(number)
 
 #bUILDING A PASSWORD GENERATOR\
-import random
-import string
-from random import random
+
 
 lowercase_letters = list(string.ascii_lowercase)
 uppercase_letters = list(string.ascii_uppercase)
@@ -43,22 +45,30 @@ nr_numbers = int(input(f"How many numbers would you like?\n "))
 
 password = ""
 for  char in range(0,nr_letters):
+    import random
     password += random.choice(letters)
 for char in range(0, nr_symbols):
     password += random.choice(symbols)
 for char in range(0, nr_numbers):
-    password += random.choice(numbers)
+    password += str(random.choice(numbers))
 print(password)
 
-#---------------------
-password = ""
+#----Hard Part--
+pasword_list = []
 for  char in range(0,nr_letters):
-    password += random.choice(letters)
+    pasword_list += random.choice(letters)
 for char in range(0, nr_symbols):
-    password += random.choice(symbols)
+    pasword_list+= random.choice(symbols)
 for char in range(0, nr_numbers):
-    password += random.choice(numbers)
+    pasword_list += str(random.choice(numbers))
 print(password)
+random.shuffle(pasword_list)
+print(pasword_list)
+
+passweord = ""
+for char in pasword_list:
+    passweord +=char
+print(f"your password is: {passweord}")
 
 
 
