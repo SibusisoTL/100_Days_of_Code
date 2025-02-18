@@ -28,6 +28,8 @@ for number in range(1,101):
     else:
         print(number)
 
+#bUILDING A PASSWORD g
+
 #bUILDING A PASSWORD GENERATOR\
 
 
