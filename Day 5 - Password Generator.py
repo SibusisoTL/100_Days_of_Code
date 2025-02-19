@@ -1,5 +1,4 @@
-#For Loop
-
+#For Loop learning from day
 import random
 import string
 from random import random
@@ -28,10 +27,10 @@ for number in range(1,101):
     else:
         print(number)
 
+
 #bUILDING A PASSWORD g
 
 #bUILDING A PASSWORD GENERATOR\
-
 
 lowercase_letters = list(string.ascii_lowercase)
 uppercase_letters = list(string.ascii_uppercase)
@@ -54,6 +53,7 @@ for char in range(0, nr_symbols):
 for char in range(0, nr_numbers):
     password += str(random.choice(numbers))
 print(password)
+
 
 #----Hard Part--
 pasword_list = []
