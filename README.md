@@ -61,45 +61,25 @@ By the end of this course, you will be fluently programming in Python and you'll
 You'll also build a portfolio of 100 projects that you can show off to any potential employer. Including:
 
 Blackjack
-
 Snake Game
-
 Pong Game
-
 Auto Swipe on Tinder
-
 Auto Job Applications on LinkedIn
-
 Automate Birthday Emails/SMS
-
 Fully Fledged Blog Website
-
 Build Your Own Public API
-
 Data Science with Google Trends
-
 Analysing Lego Datasets
-
 Google App Store Analysis
-
 and much much more!
-
 Sign up today, and look forward to:
-
 Video Lectures
-
 Code Challenges and Exercises
-
 Fully Fledged Projects
-
 Quizzes
-
 Programming Resources and Cheatsheets
-
 Downloads
-
 Our best selling 12 Rules to Learn to Code eBook
-
 $12,000+ Python Pro Bootcamp course materials and curriculum
 
 
