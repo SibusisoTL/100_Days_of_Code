@@ -20,3 +20,4 @@ for char in range(0, nr_symbols):
 for char in range(0, nr_numbers):
     password += random.choice(numbers)
 print(password)
+
