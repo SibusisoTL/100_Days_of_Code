@@ -1,9 +1,8 @@
 def turn_rdef turn_right():
+    turn_left()
+    turn_left()
 
 
-turn_left()
-turn_left()
-turn_left()
 
 while not at_goal():
     if right_is_clear():
@@ -16,6 +15,7 @@ while not at_goal():
     turn_left()
     turn_left()
     turn_left()
+
 
 while not at_goal():
     if right_is_clear():
