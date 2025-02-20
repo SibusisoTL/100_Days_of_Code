@@ -99,9 +99,6 @@ Don't just take my word for it, check out what existing students have to say abo
 The tutor is simply AMAZING, by far the best tutor I have ever had. I would give her 10 stars out of 5. She is not just punching the code and talking to herself, but she is actually explaining things. She keeps on giving really useful hints and she will give you a great load of other references. I always knew what I was doing and why I was doing it. All the extra challenges have just made me remember and understand things better. - Peter Dlugos
 
 
-
-
-
 REMEMBER… I'm so confident that you'll love this course that we're offering a FULL money-back guarantee for 30 days! So it's a complete no-brainer, sign up today with ZERO risk and EVERYTHING to gain.
 
 So what are you waiting for? Click the buy now button and join the world's highest-rated development course.
