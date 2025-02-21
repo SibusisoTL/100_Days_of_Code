@@ -13,6 +13,7 @@ We've taught over 600,000 students how to code and many have gone on to change t
 You'll save yourself over $12,000 by enrolling, and still get access to the same teaching materials and learn from the same instructor and curriculum as our in-person programming Bootcamp.
 The course is constantly updated with new content, with new projects and modules determined by students - that's you!
 
+
 We'll take you step-by-step through engaging video tutorials and teach you everything you need to know to succeed as a Python developer.
 The course includes over 65 hours of HD video tutorials and builds your programming knowledge while making real-world Python projects.
 Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
