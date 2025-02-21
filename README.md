@@ -17,7 +17,6 @@ We'll take you step-by-step through engaging video tutorials and teach you every
 The course includes over 65 hours of HD video tutorials and builds your programming knowledge while making real-world Python projects.
 Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
 
-
 Python 3 - the latest version of Python
 PyCharm, Jupyter Notebook, Google Colab
 Python Scripting and Automation
