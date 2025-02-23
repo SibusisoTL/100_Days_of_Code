@@ -1,11 +1,8 @@
 
 #OPTION 1
 import random
-
 friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
 print(random.choice(friends))
-
-
 #OPTION 2
 from random import randint
 
@@ -35,8 +32,6 @@ elif user_choice > computer_choice:
     print("You Win!")
 elif computer_choice == user_choice:
     print("It's a Draw!")
-
-
 #----------------------------------------------------------------------------
 #Treasure Hunt Game
 

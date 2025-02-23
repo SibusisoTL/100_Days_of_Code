@@ -27,9 +27,7 @@ for number in range(1,101):
         print("Buzz")
     else:
         print(number)
-
 #bUILDING A PASSWORD GENERATOR\
-
 lowercase_letters = list(string.ascii_lowercase)
 uppercase_letters = list(string.ascii_uppercase)
 
