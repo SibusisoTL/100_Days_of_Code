@@ -1,5 +1,4 @@
-#For Loop
-
+#For Loop learning from day
 import random
 import string
 from random import random
@@ -28,8 +27,10 @@ for number in range(1,101):
     else:
         print(number)
 
-#bUILDING A PASSWORD GENERATOR\
 
+#bUILDING A PASSWORD g
+
+#bUILDING A PASSWORD GENERATOR\
 
 
 lowercase_letters = list(string.ascii_lowercase)
@@ -54,24 +55,30 @@ for char in range(0, nr_numbers):
     password += str(random.choice(numbers))
 print(password)
 
+
 #----Hard Part--
-pasword_list = []
+from random import random
+import string
+lowercase_letters = list(string.ascii_lowercase)
+uppercase_letters = list(string.ascii_uppercase)
+
+letters = lowercase_letters + uppercase_letters
+numbers = list(range(0,10))
+symbols = ['!','#','$','%','&','(',')','*','+']
+
+print("Welcome to the PyPassword Generator!")
+nr_letters = int(input("How many letters would you like in your password?\n "))
+nr_symbols = int(input(f"How many symbols would you like?\n "))
+nr_numbers = int(input(f"How many numbers would you like?\n "))
+
+password = ""
 for  char in range(0,nr_letters):
-    pasword_list += random.choice(letters)
+    password += random.choice(letters)
 for char in range(0, nr_symbols):
-    pasword_list+= random.choice(symbols)
+    password += random.choice(symbols)
 for char in range(0, nr_numbers):
-    pasword_list += str(random.choice(numbers))
+    password += random.choice(numbers)
 print(password)
-random.shuffle(pasword_list)
-print(pasword_list)
-
-passweord = ""
-for char in pasword_list:
-    passweord +=char
-print(f"your password is: {passweord}")
-dd
-
 
 
 
