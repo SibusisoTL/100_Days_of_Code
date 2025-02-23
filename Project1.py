@@ -21,9 +21,4 @@ elif y == "left" or y == "Left" :
     else:
         print("Attacked by trout. Game Over.")
 else:
-    print("Fall into a hole. Game Over.")
-
-
-
-
-
+    print("Fall into a hole. Game Over."
