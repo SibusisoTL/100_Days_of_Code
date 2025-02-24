@@ -79,8 +79,6 @@ Downloads
 Our best selling 12 Rules to Learn to Code eBook
 $12,000+ Python Pro Bootcamp course materials and curriculum
 
-
-
 Don't just take my word for it, check out what existing students have to say about my courses:
 
 "Angela is just incredible, awesome and just fantastic in this course. I've never had such an instructor; detailed in every aspect of the course, gives precise explanations, gives you the anxiety to learn etc. She's got that ability to make fun while explaining things for better understanding. I really love this course." - Ekeu MonkamUlrich
