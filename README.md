@@ -58,6 +58,7 @@ By the end of this course, you will be fluently programming in Python and you'll
 
 You'll also build a portfolio of 100 projects that you can show off to any potential employer. Including:
 
+
 Blackjack
 Snake Game
 Pong Game
