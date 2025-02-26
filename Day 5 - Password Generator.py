@@ -49,7 +49,6 @@ for char in range(0, nr_symbols):
 for char in range(0, nr_numbers):
     password += str(random.choice(numbers))
 print(password)
-
 #----Hard Part--
 pasword_list = []
 for  char in range(0,nr_letters):
