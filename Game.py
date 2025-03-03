@@ -32,7 +32,6 @@ elif computer_choice == user_choice:
     print("It's a Draw!")
 #----------------------------------------------------------------------------
 #Treasure Hunt Game
-
 print("Welcome to Treasure Island. Your mission is to find the treasure.")
 y = input("Do you want to go Left ot Right? ")
 if y == "right" or y == "Right":
