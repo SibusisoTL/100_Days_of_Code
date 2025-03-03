@@ -5,7 +5,6 @@ friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
 print(random.choice(friends))
 #OPTION 2
 from random import randint
-
 friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
 q = randint(0, 4)
 
