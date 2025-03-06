@@ -69,5 +69,3 @@ print(f"your password is: {passweord}")
 
 
 
-
-
