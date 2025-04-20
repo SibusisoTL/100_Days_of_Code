@@ -21,3 +21,6 @@ elif y == "left" or y == "Left" :
 else:
     print("Fall into a hole. Game Over."
           
+
+
+          
