@@ -22,3 +22,4 @@ for char in range(0, nr_numbers):
 print(password)
 
 
+
