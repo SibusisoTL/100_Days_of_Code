@@ -22,5 +22,3 @@ else:
     print("Fall into a hole. Game Over."
           
           
-
-          
