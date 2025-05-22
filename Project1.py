@@ -6,6 +6,7 @@ elif y == "left" or y == "Left" :
     z = input("Swim or wait? ")
     if z == "swim" or z == "Swim":
 
+
         
         
         
