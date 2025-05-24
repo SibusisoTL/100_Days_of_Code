@@ -7,7 +7,6 @@ elif y == "left" or y == "Left" :
     if z == "swim" or z == "Swim":
 
 
-
         print("Attacked by trout. Game Over.")
     elif z == "Wait" or z == "wait":
         a = input("Which door, Blue, Yellow or Red? ")
