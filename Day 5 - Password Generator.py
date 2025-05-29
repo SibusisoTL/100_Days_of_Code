@@ -3,8 +3,6 @@ import random
 import string
 from random import random
 
-
-
 Student_Scores = [10, 142, 120,171, 184, 149, 24, 9, 8, 199, 78,89,86]
 max_score = 0
 for score in Student_Scores:
@@ -35,6 +33,7 @@ uppercase_letters = list(string.ascii_uppercase)
 letters = lowercase_letters + uppercase_letters
 numbers = list(range(0,10))
 symbols = ['!','#','$','%','&','(',')','*','+']
+
 
 print("Welcome to the PyPassword Generator!")
 nr_letters = int(input("How many letters would you like in your password?\n "))
