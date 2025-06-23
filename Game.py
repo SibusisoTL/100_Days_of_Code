@@ -9,8 +9,6 @@ q = randint(0, 4)
 
 
 
-
-
 print(friends[q])
 #GAME!
 game_images = [rock, paper, scissors]
