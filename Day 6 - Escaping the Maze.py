@@ -4,6 +4,7 @@ lowercase_letters = list(string.ascii_lowercase)
 uppercase_letters = list(string.ascii_uppercase)
 
 
+
 letters = lowercase_letters + uppercase_letters
 numbers = list(range(0,10))
 symbols = ['!','#','$','%','&','(',')','*','+']
