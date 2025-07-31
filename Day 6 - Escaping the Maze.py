@@ -1,5 +1,3 @@
-
-
 from random import random
 import string
 lowercase_letters = list(string.ascii_lowercase)
