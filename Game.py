@@ -6,7 +6,7 @@ print(random.choice(friends))
 from random import randint
 friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
 q = randint(0, 4)
-                      
+                       
 print(friends[q])
 #GAME!
 game_images = [rock, paper, scissors]
