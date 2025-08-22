@@ -14,7 +14,7 @@ elif y == "left" or y == "Left" :
             print("You Win!")
         elif a == "Red" or a == "red": 
             print("Burned by fire. Game Over.")
-        else:  
+        else:   
             print("Game Over.")  
     else: 
   
