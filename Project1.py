@@ -15,7 +15,7 @@ elif y == "left" or y == "Left" :
         elif a == "Red" or a == "red":
             print("Burned by fire. Game Over.")
         else:
-            print("Game Over.")
+            print("Game Over.") 
     else:
  
         print("Attacked by trout. Game Over.")
