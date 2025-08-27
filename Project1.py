@@ -4,7 +4,7 @@ if y == "right" or y == "Right":
     print("Fall into a hole. Game Over.")
 elif y == "left" or y == "Left" :
     z = input("Swim or wait? ")
-    if z == "swim" or z == "Swim":
+    if z == "swim" or z == "Swim": 
         print("Attacked by trout. Game Over.") 
     elif z == "Wait" or z == "wait":
         a = input("Which door, Blue, Yellow or Red? ")
