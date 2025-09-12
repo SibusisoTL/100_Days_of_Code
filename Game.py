@@ -8,7 +8,7 @@ friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
 q = randint(0, 4)    
                                    
 print(friends[q])         
-#GAME!        
+#GAME!         
 game_images = [rock, paper, scissors]
 user_choice = int(input("what do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissor "))
 if user_choice >= 0 and user_choice <= 2:
