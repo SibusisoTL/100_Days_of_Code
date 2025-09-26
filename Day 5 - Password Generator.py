@@ -15,7 +15,7 @@ print(max_score)
 x=0 
 for number in range(1,101): 
     x +=number 
-print(x)
+print(x) 
 
 #Task
 for number in range(1,101):
