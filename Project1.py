@@ -1,4 +1,4 @@
-print("Welcome to Treasure Island. Your mission is to find the treasure.")
+print("Welcome to Treasure Island. Your mission is to find the treasure.") 
 y = input("Do you want to go Left ot Right? ")
 if y == "right" or y == "Right":  
     print("Fall into a hole. Game Over.")
