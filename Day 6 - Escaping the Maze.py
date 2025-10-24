@@ -18,6 +18,6 @@ for  char in range(0,nr_letters):
 for char in range(0, nr_symbols): 
     password += random.choice(symbols) 
 for char in range(0, nr_numbers):  
-    password += random.choice(numbers) 
+    password += random.choice(numbers)  
 print(password)
 
