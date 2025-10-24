@@ -5,7 +5,7 @@ uppercase_letters = list(string.ascii_uppercase)
    
 letters = lowercase_letters + uppercase_letters   
 numbers = list(range(0,10))
-symbols = ['!','#','$','%','&','(',')','*','+']  
+symbols = ['!','#','$','%','&','(',')','*','+']   
    
 print("Welcome to the PyPassword Generator!")
 nr_letters = int(input("How many letters would you like in your password?\n "))
