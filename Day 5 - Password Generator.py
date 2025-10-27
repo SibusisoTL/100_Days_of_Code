@@ -9,7 +9,7 @@ for score in Student_Scores:
     if score > max_score:          
         max_score=score        
 print(max_score)            
-                               
+                                
                            
 #For Loops and Range function     
 x=0       
