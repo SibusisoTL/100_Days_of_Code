@@ -24,7 +24,7 @@ for number in range(1,101):
     elif number%3 == 0:
         print("Fizz")
     elif number%5 == 0:
-        print("Buzz")
+        print("Buzz") 
     else:
         print(number)
 #bUILDING A PASSWORD GENERATOR\
