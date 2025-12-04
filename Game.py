@@ -22,7 +22,7 @@ if user_choice >=3 or user_choice < 0:
     print("You type and invalid number. You Lose!")
 elif user_choice == 0 and computer_choice ==2:
     print("You win!")
-elif computer_choice ==0 and user_choice ==2:
+elif computer_choice ==0 and user_choice ==2: 
     print("You Lose!")
 elif computer_choice> user_choice:
     print("You Lose!")
