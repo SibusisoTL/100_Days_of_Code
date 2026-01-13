@@ -11,7 +11,7 @@ for score in Student_Scores:
 print(max_score)                                  
                                             
                                         
-#For Loops and Range function            
+#For Loops and Range function             
 x=0         
 for number in range(1,101):        
     x +=number  
