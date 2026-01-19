@@ -1,4 +1,4 @@
-#OPTION 1  
+#OPTION 1 
 import random
 friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
 print(random.choice(friends))  
