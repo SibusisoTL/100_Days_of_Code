@@ -18,7 +18,7 @@ for number in range(1,101):
 print(x) 
 
 
-
+ 
 
 #Task  
 for number in range(1,101): 
