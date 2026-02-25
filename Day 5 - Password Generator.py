@@ -14,7 +14,7 @@ print(max_score)
 ========== #for loops and Range Starts here  =========                                           
 #For Loops and Range function                 
 x=0         
-for number in range(1,101):        
+for number in range(1,101):         
     x +=number   
 print(x)   
   
