@@ -1,6 +1,6 @@
 #OPTION 1
  
-import random
+import random 
 friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
 print(random.choice(friends))   
 #OPTION 2     
