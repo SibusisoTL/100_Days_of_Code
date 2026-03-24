@@ -1,5 +1,5 @@
-from random import random
-import string   
+from random import random 
+import string    
 lowercase_letters = list(string.ascii_lowercase)  
 uppercase_letters = list(string.ascii_uppercase)   
         
